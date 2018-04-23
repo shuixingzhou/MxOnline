@@ -2,8 +2,8 @@
 
 ## Quick Start
 ```
-$ git clone https://github.com/mtianyan/Mxonline3.git
-$ cd Mxonline3
+$ git clone https://github.com/webjipeng/MxOnline.git
+$ cd MxOline
 $ pip install -r requirements.txt
 $ python manage.py runserver
 ```
